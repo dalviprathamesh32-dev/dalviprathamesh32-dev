@@ -23,6 +23,6 @@ Backend Infrastructure Engineer & IT Engineering Student specializing in designi
 ---
 
 ### 📊 Performance Statistics & Connect
-* 💼 **LinkedIn:** [linkedin.com/in/prathamesh-dalvi](https://linkedin.com) *(Update with your exact URL)*
+* 💼 **LinkedIn:** [linkedin.com/in/prathamesh-dalvi-2b23533b3](https://linkedin.com) 
 * 📬 **Direct Inquiries:** dalviprathamesh32@gmail.com
 * 🛠️ *Building in public. Turning complex logic into production-ready infrastructure daily.*
