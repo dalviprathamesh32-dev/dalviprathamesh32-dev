@@ -1,28 +1,36 @@
-# Hi, I'm Prathamesh Dalvi 👋 `[ dalviprathamesh32-dev ]`
+# Hey there! I'm Prathamesh Dalvi 🚀
 
-Backend Infrastructure Engineer & IT Engineering Student specializing in designing high-performance RESTful APIs, relational data architecture, and secure system workflows. Focused on writing highly optimized, clean code within the Python ecosystem.
+## 🧠 Backend Infrastructure Engineer & IT Student
 
----
-
-### 🛠️ Core Technical Arsenal
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Languages** | Python (Expert), JavaScript (ES6+), SQL (MySQL/PostgreSQL), Bash |
-| **Backend Frameworks** | FastAPI, Node.js (Express) |
-| **Database Engineering** | PostgreSQL, MySQL (Relational Modeling, Query Optimization, Indexing) |
-| **Security & Systems** | Linux CLI, Secure Authentication, API Gateway Architecture, Git |
+I specialize in architecting **high-performance RESTful APIs**, optimizing **relational data systems**, and implementing **secure backend workflows** within the Python ecosystem.
 
 ---
 
-### ⚙️ Current Technical Focus & Initiatives
-* 🚀 **API Performance Architecture:** Designing asynchronous backend services leveraging FastAPI for low-latency data processing.
-* 💾 **Data Engineering Mastery:** Deep-diving into advanced relational database indexing, transactional scaling, and complex query optimizations using PostgreSQL.
-* 🔒 **DevSecOps Integration:** Implementing robust authentication protocols, middleware security layers, and exploring system-level protection mechanisms.
+## 🛠️ Technical Arsenal
+
+### 💻 Core Languages
+* **Python** (Asynchronous, High-Level Logic)
+* **SQL** (PostgreSQL & MySQL Relational Architectures)
+* **JavaScript** (Modern ES6+)
+* **Bash** / Linux Shell Scripting
+
+### ⚙️ Frameworks & Environments
+* **FastAPI** (Low-Latency REST Services)
+* **Node.js** & Express Frameworks
+* **Linux CLI** & Git Version Control Systems
 
 ---
 
-### 📊 Performance Statistics & Connect
-* 💼 **LinkedIn:** [linkedin.com/in/prathamesh-dalvi-2b23533b3](https://linkedin.com) 
-* 📬 **Direct Inquiries:** dalviprathamesh32@gmail.com
-* 🛠️ *Building in public. Turning complex logic into production-ready infrastructure daily.*
+## 🎯 Current Engineering Focus
+
+* 🚀 **API Performance Tuning:** Leveraging asynchronous Python patterns to optimize data handling capacities.
+* 💾 **Database Optimization:** Deep-diving into execution plans, structural indexing, and complex query acceleration in PostgreSQL.
+* 🔒 **Application Security:** Crafting robust token-based authorization workflows and custom security middleware layers.
+
+---
+
+## 📬 System Interconnect
+* 💼 **LinkedIn:** [linkedin.com/in/prathamesh-dalvi-2b23533b3](https://linkedin.com)
+* 📧 **Direct Inbox:** dalviprathamesh32@gmail.com
+
+> *"Building clean, resilient, production-ready backend infrastructure daily."*
