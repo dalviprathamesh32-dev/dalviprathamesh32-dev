@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Prathamesh Dalvi 👋
 
-<!--
-**dalviprathamesh32-dev/dalviprathamesh32-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer | Cloud Architecture | SaaS Builder**
 
-Here are some ideas to get you started:
+I engineer highly scalable, resilient backend systems and cloud-native infrastructure. My current focus is designing multi-tenant architectures and optimizing high-throughput database interactions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Arsenal
+*   **Backend Engine:** Python, FastAPI, Object-Oriented Design
+*   **Data & Caching:** PostgreSQL, Redis, Query Optimization
+*   **DevOps & Cloud:** Docker, Kubernetes, AWS, CI/CD pipelines
+*   **Frontend UI:** React.js, Tailwind CSS
+
+### ⚙️ Featured Architecture
+*   **QR-Ordering Infrastructure:** Designed a scalable micro-architecture pattern using FastAPI and PostgreSQL to handle multi-tenant isolation and rate-limiting for high-traffic environments. 
+
+### 📫 Let's Talk Systems & Business
+*   linkedin.com/in/prathamesh-dalvi-2b23533b3
