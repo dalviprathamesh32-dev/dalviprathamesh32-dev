@@ -14,4 +14,4 @@ I engineer highly scalable, resilient backend systems and cloud-native infrastru
 *   **QR-Ordering Infrastructure:** Designed a scalable micro-architecture pattern using FastAPI and PostgreSQL to handle multi-tenant isolation and rate-limiting for high-traffic environments. 
 
 ### 📫 Let's Talk Systems & Business
-*   linkedin.com/in/prathamesh-dalvi-2b23533b3
+* **LinkedIn:** [Prathamesh Dalvi](https://linkedin.com/in/prathamesh-dalvi-2b23533b3)
