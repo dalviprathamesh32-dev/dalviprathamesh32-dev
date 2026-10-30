@@ -1,17 +1,24 @@
-# Hi, I'm Prathamesh Dalvi 👋
+# Hi, I'm Prathamesh 👋
 
-**Backend Engineer | Cloud Architecture | SaaS Builder**
+**Backend Developer | Python, FastAPI, PostgreSQL, Redis | Security-first systems**
 
-I engineer highly scalable, resilient backend systems and cloud-native infrastructure. My current focus is designing multi-tenant architectures and optimizing high-throughput database interactions.
+Third-year IT student at MCT's Rajiv Gandhi Institute of Technology, Mumbai. I build backend systems and test them for weaknesses.
 
-### 🛠️ Core Arsenal
-*   **Backend Engine:** Python, FastAPI, Object-Oriented Design
-*   **Data & Caching:** PostgreSQL, Redis, Query Optimization
-*   **DevOps & Cloud:** Docker, Kubernetes, AWS, CI/CD pipelines
-*   **Frontend UI:** React.js, Tailwind CSS
+## Stack
+- **Languages:** Python
+- **Backend:** FastAPI
+- **Data:** PostgreSQL, Redis
+- **Tools:** Docker, Git, Linux (WSL)
 
-### ⚙️ Featured Architecture
-*   **QR-Ordering Infrastructure:** Designed a scalable micro-architecture pattern using FastAPI and PostgreSQL to handle multi-tenant isolation and rate-limiting for high-traffic environments. 
+## Projects
+- **[SIH26228 TrustLayer-CV](https://github.com/dalviprathamesh32-dev/SIH26228-TrustLayer-CV)**: cryptographic integrity and provenance layer for tactical computer vision pipelines. Built the full prototype and demo.
+- **[SIH26106 VAJRA](https://github.com/dalviprathamesh32-dev/SIH26106-Vajra)**: email threat and forensic intelligence platform. Built the backend (team project).
+- **Secure Sharing Vault** *(in progress)*: self-destructing, client-side encrypted message and file sharing with FastAPI + Redis.
 
-### 📫 Let's Talk Systems & Business
-* **LinkedIn:** [Prathamesh Dalvi](https://linkedin.com/in/prathamesh-dalvi-2b23533b3)
+## Currently
+- Building the secure sharing vault in public
+- Practicing DSA daily
+
+## Contact
+- LinkedIn: [Prathamesh Dalvi](https://www.linkedin.com/in/prathamesh-dalvi-2b23533b3)
+- Email: dalviprathamesh32@gmail.com
