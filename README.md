@@ -13,12 +13,14 @@ Third-year IT student at MCT's Rajiv Gandhi Institute of Technology, Mumbai. I b
 ## Projects
 - **[SIH26228 TrustLayer-CV](https://github.com/dalviprathamesh32-dev/SIH26228-TrustLayer-CV)**: cryptographic integrity and provenance layer for tactical computer vision pipelines. Built the full prototype and demo.
 - **[SIH26106 VAJRA](https://github.com/dalviprathamesh32-dev/SIH26106-Vajra)**: email threat and forensic intelligence platform. Built the backend (team project).
-- **Secure Sharing Vault** *(in progress)*: self-destructing, client-side encrypted message and file sharing with FastAPI + Redis.
+- **[ZeroTrace](https://github.com/dalviprathamesh32-dev/ZeroTrace)**: self-destructing, client-side encrypted message and file sharing with FastAPI + Redis.
 
 ## Currently
 - Building the secure sharing vault in public
 - Practicing DSA daily
 
 ## Contact
-- LinkedIn: [Prathamesh Dalvi](https://www.linkedin.com/in/prathamesh-dalvi-2b23533b3)
+- LinkedIn: [Prathamesh Dalvi](https://www.linkedin.com/in/buildwithpaddy)
 - Email: dalviprathamesh32@gmail.com
+- portfolio: [Build With Paddy](buildwithpaddy.dev)
+- 
