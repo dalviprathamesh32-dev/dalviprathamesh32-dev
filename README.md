@@ -22,5 +22,5 @@ Third-year IT student at MCT's Rajiv Gandhi Institute of Technology, Mumbai. I b
 ## Contact
 - LinkedIn: [Prathamesh Dalvi](https://www.linkedin.com/in/buildwithpaddy)
 - Email: dalviprathamesh32@gmail.com
-- portfolio: [Build With Paddy](buildwithpaddy.dev)
+- portfolio: [Build With Paddy](https://www.buildwithpaddy.dev)
 - 
